@@ -1,1 +1,1 @@
-web: gunicorn dp_api:app
+web: gunicorn dp_api:model
