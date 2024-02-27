@@ -3,6 +3,7 @@
 # platform: linux-64
 _libgcc_mutex=0.1=conda_forge
 _openmp_mutex=4.5=2_gnu
+asttokens=2.4.1
 blas=1.0=openblas
 bzip2=1.0.8=h7b6447c_0
 ca-certificates=2024.2.2=hbcca054_0
